@@ -1,5 +1,7 @@
+
 My best practice building python environment in ubuntu env.
-**WARNING: This is MY best practice.**
+
+**WARNING: This is MY best practice. (Almost memo for myself)**
 
 step 1, install pyenv (included in pyenv.sh)
 dependencies
